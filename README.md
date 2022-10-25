@@ -1,3 +1,3 @@
 # WeatherApp
 
-This is a weather developed in React Native
+This is a weather mobile App developed in React Native
